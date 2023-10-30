@@ -10,6 +10,15 @@ namespace no_it_yet
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Arrays");
+            Console.WriteLine("-------");
+            Console.WriteLine();
+
+
+
+            Console.WriteLine();
+            Console.WriteLine("press any key to exit");
+            Console.ReadKey(true);
         }
     }
 }
